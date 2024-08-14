@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 1em;
+  background-color: rgb(40, 25, 48);
+  color: white;
+}
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
